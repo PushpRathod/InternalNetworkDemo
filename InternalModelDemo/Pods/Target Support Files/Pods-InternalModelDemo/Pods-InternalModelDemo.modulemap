@@ -1,0 +1,6 @@
+framework module Pods_InternalModelDemo {
+  umbrella header "Pods-InternalModelDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
